@@ -116,7 +116,7 @@ export default function Hero() {
         }}
       >
         <Image
-          src="/profile.png"
+          src="/profilee.png"
           alt="profile"
           width={600}
           height={800}
